@@ -1,0 +1,6 @@
+@MauiLoginAPI_HostAddress = http://localhost:5215
+
+GET {{MauiLoginAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
